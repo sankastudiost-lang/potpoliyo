@@ -1,0 +1,24 @@
+Your **SANKA STUDIO** portfolio website is complete — a single, self-contained HTML file ready to open in any browser or deploy anywhere.
+
+## What's Included
+
+**Design**
+- Premium dark theme (black/deep navy) with electric blue (#2f7bff → #00d4ff) gradient accents
+- Glassmorphism cards, subtle grid overlay, and a soft cursor glow that follows the mouse
+- Modern typography (Sora for headings, Inter for body), bold oversized hero headline
+
+**Sections**
+1. **Hero** — "CRAFTING DIGITAL EXPERIENCES." headline, availability badge, *View My Work* + *Let's Work Together* buttons, social icons, and an animated particle-network canvas background that reacts to your mouse
+2. **About** — profile placeholder with floating "5+ Years Experience" badge, intro text, and 4 key strengths (creativity, clean code, responsive design, attention to detail)
+3. **Services** — all 6 service cards (Website Design & Development, Portfolio Sites, Business Websites, Landing Pages, UI/UX, Maintenance) with SVG icons and hover lift effects
+4. **Portfolio** — 6 project cards with thumbnails, descriptions, tech tags, and Live Demo / Case Study overlays, plus a working **category filter** (All / Web Design / UI/UX / Branding)
+5. **Contact** — glassmorphic contact card with a working form (shows a success message on submit), email, phone, and location
+6. **Footer** — logo, copyright, and social links
+
+**Interactions**
+- Scroll-reveal animations with staggered delays throughout
+- Sticky navbar that turns glassy on scroll, with animated underline links
+- Fully responsive: mobile hamburger menu, stacked layouts on tablet/phone
+
+**To personalize it:** replace the placeholder email/phone/location in the Contact section, swap the `#` social links, and replace the gradient thumbnail backgrounds with real project screenshots when you have them.
+
